@@ -1,5 +1,7 @@
 # mjs
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f5f406c4-8f0d-40b0-8ae1-e5857bc1d5a1/deploy-status)](https://app.netlify.com/sites/mattandjessicasteele/deploys)
+
 ## Project setup
 ```
 npm install
