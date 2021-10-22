@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  --color-gold: #a6842a;
+  --color-blue: #143c6d;
+
+  font-family: "Poiret One", cursive;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  a {
+    color: #143c6d;
+  }
+
+  p {
+    font-family: 'Trebuchet MS',Trebuchet MS,sans-serif;
+    font-size: 20px;
+  }
+  h1, h2 {
+    color: var(--color-blue);
+    a {
+      color: var(--color-blue);
+    }
+  }
+  img {
+    max-width: 100%;
+  }
+  img[width] {
+    width: auto; /* Defer to max-width */
+  }
+  img[width][height] {
+    height: auto; /* Preserve aspect ratio */
+  }
+  
+  /* Let SVG scale without boundaries */
+  img[src$=".svg"] {
+    width: 100%;
+    height: auto;
+    max-width: none;
+  }
+
+}
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s;
+}
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+.fade-enter-to,
+.fade-leave {
+  opacity: 1;
+}
