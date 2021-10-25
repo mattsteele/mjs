@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Invitation from '../views/Invitation.vue';
-import Location from '../views/Location.vue';
+import Venue from '../views/Venue.vue';
 import Lodging from '../views/Lodging.vue';
 import Registry from '../views/Registry.vue';
 import NotFound from '../views/404.vue';
@@ -17,8 +17,8 @@ const routes = [
 	{ path: '/invitation',
 		component: Invitation
 	},
-	{ path: '/location',
-		component: Location
+	{ path: '/Venue',
+		component: Venue
 	},
 	{ path: '/lodging',
 		component: Lodging

@@ -1,6 +1,6 @@
 <template>
-  <div class="location-wrapper">
-    <h1>Location</h1>
+  <div class="venue-wrapper">
+    <h1>The Venue</h1>
     <img src="@/assets/images/rose-outside.png" alt="The Rose">
     <p><a href="https://buffalorosegolden.com/weddings/">The Rose</a> in downtown Golden, Colorado will be the location for both the ceremony and the reception.</p>
 
@@ -10,12 +10,12 @@
 
 <script>
   export default {
-    name: "Location"
+    name: "Venue"
   }
 </script>
 
 <style lang="scss">
-  .location-wrapper {
+  .venue-wrapper {
     max-width: 70vw;
     margin: 2rem auto;
     padding: 2rem 5rem;

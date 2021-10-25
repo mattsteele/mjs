@@ -51,9 +51,6 @@
   .intro-wrapper {
     width: 60vw;
     margin: 0 auto;
-    p {
-      font-size: 1.5rem;
-    }
   }
 }
 </style>
