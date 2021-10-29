@@ -90,6 +90,7 @@
 					color: inherit;
 					font-size: 2rem;
 					padding-bottom: 1rem;
+					color: var(--color-gold);
 					&.router-link-exact-active {
 						border-bottom: 2px solid var(--color-blue);
 					}
