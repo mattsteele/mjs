@@ -21,6 +21,13 @@
     img {
        max-width: 60%;
     }
+    // mobile view
+		@media only screen and (max-width: 760px) { 
+      padding-top: 0;
+      img {
+        max-width: 100%;
+      }
+    }
   }
 
 

@@ -49,7 +49,7 @@
     img {
       margin-top: 2rem;
       margin-bottom: 2rem;
-      width: 70%;
+      max-width: 70%;
     }
     .hotel-wrapper {
       padding: .5rem;
@@ -64,6 +64,15 @@
       &.border {
         border-bottom: 1px solid var(--color-blue);
         padding-bottom: 2rem;
+      }
+    }
+    // mobile view
+		@media only screen and (max-width: 760px) {
+      max-width: 100vw;
+      margin: 0 auto;
+      padding: 0 2rem;
+      img {
+        max-width: 100%;
       }
     }
   }

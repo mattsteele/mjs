@@ -25,6 +25,12 @@
     h1, h2 {
       color: var(--color-blue);
     }
+    // mobile view
+		@media only screen and (max-width: 760px) { 
+      max-width: 100vw;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
   }
 
 </style>

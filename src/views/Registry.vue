@@ -30,6 +30,15 @@
     h2 {
       margin-top: 5rem;
     }
+    // mobile view
+		@media only screen and (max-width: 760px) {
+      max-width: 100vw;
+      margin: 0 auto;
+      padding: 0 2rem;
+      img {
+        max-width: 100%;
+      }
+    }
   }
 
 </style>
