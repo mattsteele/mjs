@@ -45,7 +45,6 @@
 		display: flex;
 		justify-content: center;
 		.nav {
-			// border-bottom: 1px solid var(--color-blue);
 			padding: 30px 0;
 			&__toggle {
 				position: absolute;
@@ -76,7 +75,7 @@
 				flex-direction: column;
 				gap: 2rem;
 				align-items: center;
-				margin: 1rem;
+				margin: 0 1rem 1rem 1rem;
 					padding: 0;
 				li {
 					list-style: none;
@@ -119,6 +118,7 @@
 		// Desktop view
 		@media only screen and (min-width: 760px) {
 			.nav {
+				padding: 30px 0;
 				&__toggle {
 					display: none;
 				}
