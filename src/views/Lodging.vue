@@ -41,8 +41,8 @@
 <style lang="scss">
   .lodging-wrapper {
     max-width: 70vw;
-    margin: 2rem auto;
-    padding: 2rem 5rem;
+    margin: 0 auto;
+    padding-top: 3rem;
     h1 {
       text-align: center;
     }
@@ -69,7 +69,6 @@
     // mobile view
 		@media only screen and (max-width: 760px) {
       max-width: 100vw;
-      margin: 0 auto;
       padding: 0 2rem;
       img {
         max-width: 100%;

@@ -14,19 +14,13 @@
 
 <style lang="scss">
   .invitation-wrapper {
-    padding-top: 3rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    img {
-       max-width: 75%;
-    }
+    max-width: 70vw;
+    margin: 0 auto;
+    padding-top: 3rem;  
     // mobile view
 		@media only screen and (max-width: 760px) { 
-      padding-top: 0;
-      img {
-        max-width: 100%;
-      }
+      max-width: 100vw;
+      padding: 0 2rem;
     }
   }
 
