@@ -1,7 +1,7 @@
 <template>
   <div class="invitation-wrapper">
 
-    <img src="@/assets/images/savethedate.jpg" alt="Save The Date">
+    <img src="@/assets/images/invitation.jpg" alt="Save The Date">
 
   </div>
 </template>
@@ -19,7 +19,7 @@
     flex-direction: column;
     align-items: center;
     img {
-       max-width: 60%;
+       max-width: 75%;
     }
     // mobile view
 		@media only screen and (max-width: 760px) { 
