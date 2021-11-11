@@ -1,7 +1,7 @@
 <template>
   <div class="invitation-wrapper">
 
-    <img src="@/assets/images/invitation.jpg" alt="Save The Date">
+    <img src="@/assets/images/invitation.jpg" alt="Wedding Invitation">
 
   </div>
 </template>
