@@ -1,7 +1,7 @@
 <template>
   <div class="venue-wrapper">
-    <h1>The Venue</h1>
-    <img src="@/assets/images/rose-outside.png" alt="The Rose">
+    <h1>Venue</h1>
+    <img src="@/assets/images/downtown-golden.jpg" alt="The Rose">
     <p><a href="https://buffalorosegolden.com/weddings/">The Rose</a> in downtown Golden, Colorado will be the location for both the ceremony and the reception.</p>
     <h2><a href="https://www.thedenverear.com/opportunities-enjoy-golden/">Things to do in Golden</a></h2>
   </div>
