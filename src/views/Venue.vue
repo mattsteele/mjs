@@ -20,9 +20,7 @@
     padding-top: 3rem;
     h1 {
       text-align: center;
-    }
-    h1, h2 {
-      color: var(--color-blue);
+      margin-bottom: 4rem;
     }
     // mobile view
 		@media only screen and (max-width: 760px) { 

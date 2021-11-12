@@ -4,7 +4,7 @@
   
     <div class="hotel-wrapper highlight">
       <h3><a href="https://www.tablemountaininn.com/">Table Mountain Inn</a></h3>
-      <p>We have a block of 10 rooms at this hotel with a discount. Please use <a href="https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Freservations.travelclick.com%2F13195%3FgroupID%3D3328696&data=04%7C01%7C%7C055804d0fe77451d3f8b08d99585af89%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637705223677963034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=ofeyb3PTpQdmfLMpdW4X7qtEgv%2FcykQN4uLNX7YEVtg%3D&reserved=0">THIS LINK</a> to get the discount. You can also call them and use <span class="bold">group code 183772</span>.</p>
+      <p>We have a block of 10 rooms at the Table Mountain Inn hotel with a discount. Please use <a href="https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Freservations.travelclick.com%2F13195%3FgroupID%3D3328696&data=04%7C01%7C%7C055804d0fe77451d3f8b08d99585af89%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637705223677963034%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=ofeyb3PTpQdmfLMpdW4X7qtEgv%2FcykQN4uLNX7YEVtg%3D&reserved=0">THIS LINK</a> to get the discount. You can also call them and use <span class="bold">group code 183772</span>.</p>
       <p>This hotel is a block & a half from the wedding venue. It features larger rooms, a restaurant & a bar. Adobe Southwestern style.</p>
     </div><!-- hotel-wrapper highlight -->
 
@@ -45,11 +45,11 @@
     padding-top: 3rem;
     h1 {
       text-align: center;
+      margin-bottom: 4rem;
     }
     img {
-      margin-top: 2rem;
-      margin-bottom: 2rem;
-      max-width: 70%;
+      display: block;
+      margin: 5rem auto;
     }
     .hotel-wrapper {
       padding: .5rem;
@@ -57,6 +57,7 @@
         border: 10px solid var(--color-gold);
         padding-left: 1rem;
         padding-right: 1rem;
+        margin-bottom: 2rem;
       }
       .bold {
         font-weight: bold;

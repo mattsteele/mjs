@@ -2,7 +2,9 @@
   <div class="registry-wrapper">
     <h1>Registry</h1>
 
-    <p>We are hoping to take a long road trip across Europe, once the world opens back up fully.</p>
+    <img src="@/assets/images/europe-road-trip.jpg" alt="">
+
+    <p>Once the world fully opens back up, we're hoping to take a long road trip across Europe...</p>
       
       <p>As a couple, we have already established a beautiful home together. In lieu of gifts, we would love your help sending us on the honeymoon of our dreams.</p>
       <p>If you would like, you can contribute <a href="">here</a>.</p>
@@ -20,12 +22,13 @@
     max-width: 70vw;
     margin: 0 auto;
     padding-top: 3rem;
-    h1, h2 {
-      color: var(--color-blue);
+    h1 {
       text-align: center;
+      margin-bottom: 4rem;
     }
-    h2 {
-      margin-top: 5rem;
+    img {
+      display: block;
+      margin: 5rem auto;
     }
     // mobile view
 		@media only screen and (max-width: 760px) {
