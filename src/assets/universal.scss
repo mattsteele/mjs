@@ -32,6 +32,10 @@ body {
   }
   img {
     max-width: 100%;
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -webkit-optimize-contrast;
   }
   img[width] {
     width: auto; /* Defer to max-width */
