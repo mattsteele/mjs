@@ -2,6 +2,13 @@
   <div class="venue-wrapper">
     <h1>Venue</h1>
     <img src="@/assets/images/downtown-golden.jpg" alt="The Rose">
+
+      <a class="address-wrapper" href="https://goo.gl/maps/7iMv9MtTRtQ5Q8FL6">
+        <div class="address-one">The Rose</div>
+        <div class="address-two">1119 Washington Ave</div>
+        <div class="address-three">Golden, CO 80401</div>
+      </a>
+<hr />
     <p><a href="https://buffalorosegolden.com/weddings/">The Rose</a> in downtown Golden, Colorado will be the location for both the ceremony and the reception.</p>
     <h2><a href="https://www.thedenverear.com/opportunities-enjoy-golden/">Things to do in Golden</a></h2>
   </div>
@@ -21,6 +28,22 @@
     h1 {
       text-align: center;
       margin-bottom: 4rem;
+    }
+    .address-wrapper {
+      display: block;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+      text-decoration: none;
+      font-size: 28px;
+      .address-one {
+        font-weight: bold;
+      }
+      .address-two {
+
+      }
+      .address-three {
+
+      }
     }
     // mobile view
 		@media only screen and (max-width: 760px) { 
