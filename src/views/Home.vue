@@ -12,12 +12,18 @@
     <h1 class="title">Jessica & Matt</h1>
     <img
       src="@/assets/images/side.jpg"
+      class="home-image"
       alt="Holding Hands"
     >
     <div class="intro-wrapper">
-    <p> Intro lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae consequuntur error iure, laborum et quod? Molestiae at labore cupiditate praesentium et enim vitae soluta commodi laboriosam porro? Dolorem exercitationem dignissimos quo delectus odio! Tempora, eligendi explicabo iusto magni pariatur aliquam.</p>
+      <p>Jessica and Matt lived three blocks apart in Denver for years before they met right between their two apartments. Two days later, their first date was watching the Broncos win Super Bowl 50. That was February 7th, 2016 and they’ve never looked back. They’ve grown with each other through tiny apartments, career changes, a pandemic, and learning what it takes to be the best partners in life. Last year they bought their first home together, and adopted Betty Sue Dog, the apple of their eyes. They are so excited to start their new adventure of marriage, and they can’t wait to celebrate their love with their family and friends.</p>
     </div>
-  </div>
+      <img
+        src="@/assets/images/kids.jpg"
+        class="home-image"
+        alt="Matt & Jessica as children"
+      >
+  </div><!-- .home-wrapper -->
 </template>
 
 <script>
@@ -31,6 +37,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 5rem;
   .link-wrapper {
     display: flex;
     flex-direction: column;
@@ -44,12 +51,12 @@
     margin-top: 2rem;
     margin-bottom: 3rem;
   }
-  img {
+  .home-image {
     max-width: 40%;
   }
   .intro-wrapper {
     width: 60vw;
-    margin: 0 auto;
+    margin: 2rem auto;
   }
   // mobile view
   @media only screen and (max-width: 760px) {
