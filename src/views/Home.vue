@@ -60,8 +60,8 @@
   }
   // mobile view
   @media only screen and (max-width: 760px) {
-    img {
-      max-width: 100%;
+    .home-image {
+      max-width: 90%;
     }
     .intro-wrapper{
       width: 90vw;
