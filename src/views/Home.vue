@@ -16,7 +16,7 @@
       alt="Holding Hands"
     >
     <div class="intro-wrapper">
-      <p>Jessica and Matt lived three blocks apart in Denver for years before they met right between their two apartments. Two days later, their first date was watching the Broncos win Super Bowl 50. That was February 7th, 2016 and they’ve never looked back. They’ve grown with each other through tiny apartments, career changes, a pandemic, and learning what it takes to be the best partners in life. Last year they bought their first home together, and adopted Betty Sue Dog, the apple of their eyes. They are so excited to start their new adventure of marriage, and they can’t wait to celebrate their love with their family and friends.</p>
+      <p>Jessica & Matt lived three blocks apart in Denver for years before they met right between their two apartments. Two days later, their first date was watching the Broncos win Super Bowl 50. That was February 7th, 2016 & they’ve never looked back. They’ve grown with each other through tiny apartments, career changes, a pandemic, & learning what it takes to be the best partners in life. Last year they bought their first home together, and& adopted Betty Sue Dog, the apple of their eyes. They are so excited to start their new adventure of marriage, & they can’t wait to celebrate their love with their family and friends.</p>
     </div>
       <img
         src="@/assets/images/kids.jpg"
