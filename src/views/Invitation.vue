@@ -23,9 +23,10 @@
     }
     // mobile view
 		@media only screen and (max-width: 760px) { 
-      img {
-        margin: 0 auto;
-      }
+      max-width: initial;
+        img {
+          margin: 0 auto;
+        }
     }
   }
 
