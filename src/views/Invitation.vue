@@ -26,6 +26,7 @@
       max-width: initial;
         img {
           margin: 0 auto;
+          max-width: 90%;
         }
     }
   }

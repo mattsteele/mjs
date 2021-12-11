@@ -8,10 +8,23 @@
         <div class="address-two">1119 Washington Ave</div>
         <div class="address-three">Golden, CO 80401</div>
       </a>
-<hr />
-    <p><a href="https://buffalorosegolden.com/weddings/">The Rose</a> in downtown Golden, Colorado will be the location for both the ceremony and the reception.</p>
+      <p><a href="https://buffalorosegolden.com/weddings/">The Rose</a> in downtown Golden, Colorado will be the location for both the ceremony and the reception.</p>
+      <hr />
+
+ 
+
+    <div class="parking-wrapper">
+      <h1>Parking</h1>
+      <p>There's a free, covered, public garage right behind the venue.</p>
+      <img 
+        class="parking-image"
+        src="@/assets/images/parking.png" 
+        alt="Parking"
+      >
+    </div><!-- parking-wrapper -->
+
     <h2><a href="https://www.thedenverear.com/opportunities-enjoy-golden/">Things to do in Golden</a></h2>
-  </div>
+  </div><!-- venue-wrapper -->
 </template>
 
 <script>
@@ -37,18 +50,22 @@
       font-size: 28px;
       .address-one {
         font-weight: bold;
-      }
-      .address-two {
-
-      }
-      .address-three {
-
-      }
+      }   
     }
+    .parking-wrapper {
+      .parking-image {
+        max-width: 50%;
+      }
+    }   
     // mobile view
 		@media only screen and (max-width: 760px) { 
       max-width: 100vw;
       padding: 0 2rem;
+      .parking-wrapper {
+        .parking-image {
+          max-width: 100%;
+        }
+      }
     }
   }
 
