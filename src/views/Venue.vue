@@ -15,7 +15,7 @@
 
     <div class="parking-wrapper">
       <h1>Parking</h1>
-      <p>There's a free, covered, public garage right behind the venue.</p>
+      <p>There is a free, covered public parking garage directly behind the venue.</p>
       <img 
         class="parking-image"
         src="@/assets/images/parking.png" 
