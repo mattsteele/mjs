@@ -22,7 +22,7 @@
 
     <div class="hotel-wrapper border">
       <h3><a href="https://www.theeddygolden.com/">The Eddy Taproom & Hotel</a></h3>
-      <p>Cool, hip and modern. It features a brewery & a restaurant, but it's 1 mile away from the venue.</p>
+      <p>Cool, hip and modern. It features a brewery & a restaurant. It's 1 mile away from the venue.</p>
     </div><!-- hotel-wrapper border -->
 
     <div class="hotel-wrapper border">
