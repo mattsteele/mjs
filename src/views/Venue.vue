@@ -8,7 +8,7 @@
         <div class="address-two">1119 Washington Ave</div>
         <div class="address-three">Golden, CO 80401</div>
       </a>
-      <p><a href="https://buffalorosegolden.com/weddings/">The Rose</a> in downtown Golden, Colorado will be the location for both the ceremony and the reception.</p>
+      <p><a href="https://buffalorosegolden.com/weddings/">The Rose</a> in downtown Golden, Colorado will be the location for both the ceremony & the reception.</p>
       <hr />
 
  
