@@ -15,7 +15,21 @@
 
     <div class="parking-wrapper">
       <h1>Parking</h1>
-      <p>There is a free, covered public parking garage directly behind the venue.</p>
+      <p>There are two public parking garages conveniently located within one block of The Rose between Jackson St. & Prospector’s Alley & between 11th and 13th Streets.</p>
+
+      <p>Use the physical address information below for GPS navigation.</p>
+
+      <a class="address-wrapper" href="https://goo.gl/maps/B9S5m2wHuwYrUshT9">
+        <div class="address-one">Public Garage 1 (South)</div>
+        <div class="address-two">1250 Jackson St.</div>
+        <div class="address-three">Golden, CO 80401</div>
+      </a>
+
+      <a class="address-wrapper" href="https://goo.gl/maps/yd3rMAJJ9AS9dCDZ8">
+        <div class="address-one">Public Garage 2 (North)</div>
+        <div class="address-two">702 12th St.</div>
+        <div class="address-three">Golden, CO 80401</div>
+      </a>
       <img 
         class="parking-image"
         src="@/assets/images/parking.png" 
