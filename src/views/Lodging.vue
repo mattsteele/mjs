@@ -4,7 +4,7 @@
   
     <div class="hotel-wrapper highlight">
       <h3><a href="https://www.tablemountaininn.com/">Table Mountain Inn</a></h3>
-      <p>We have a block of 10 rooms at the Table Mountain Inn hotel with a discount. To book a room using the discount call <a href="tel:303-325-3995">303-325-3995</a> and use <span class="bold">group code 183772</span>.</p>
+      <p>We have a block of rooms at the Table Mountain Inn hotel with a discount. To book a room using the discount call <a href="tel:303-325-3995">303-325-3995</a> and use group reservation <span class="bold">#183772</span> & the last name <span class="bold">"Steele"</span>.</p>
       <p>This hotel is a block & a half from the wedding venue. It features larger rooms, a restaurant & a bar. Adobe Southwestern style.</p>
     </div><!-- hotel-wrapper highlight -->
 
