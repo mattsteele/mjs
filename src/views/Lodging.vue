@@ -1,11 +1,11 @@
 <template>
   <div class="lodging-wrapper">
     <h1>Lodging</h1>
-  
+
     <div class="hotel-wrapper highlight">
       <h3><a href="https://www.tablemountaininn.com/">Table Mountain Inn</a></h3>
-      <p>We have a block of rooms at the Table Mountain Inn hotel with a discount. To book a room using the discount call <a href="tel:303-325-3995">303-325-3995</a> and use group reservation <span class="bold">#183772</span> & the last name <span class="bold">"Steele"</span>.</p>
-      <p>This hotel is a block & a half from the wedding venue. It features larger rooms, a restaurant & a bar. Adobe Southwestern style.</p>
+      <p>Our room block at Table Mountain Inn has been filled.</p> <p>There are still rooms available at both <a href="https://www.tablemountaininn.com/">Table Mountain Inn</a> & <a href="https://www.thegoldenhotel.com/">The Golden Hotel</a> at their regular rates.</p>
+      <!-- <p>This hotel is a block & a half from the wedding venue. It features larger rooms, a restaurant & a bar. Adobe Southwestern style.</p> -->
     </div><!-- hotel-wrapper highlight -->
 
     <img src="@/assets/images/golden-hotels.png" alt="Golden hotels map">
