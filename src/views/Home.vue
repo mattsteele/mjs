@@ -11,7 +11,8 @@
     </div><!-- link-wrapper -->
     <h1 class="title">Jessica & Matt</h1>
 
-    <a href="https://www.dropbox.com/scl/fo/4qikx2lda75i4pttuj3br/h?dl=0&rlkey=euj39rvw9nvmrbpyw835395tw">LINK</a>
+    <h3><a href="https://www.dropbox.com/scl/fo/4qikx2lda75i4pttuj3br/h?dl=0&rlkey=euj39rvw9nvmrbpyw835395tw">Click here</a> to add photos to our album</h3>
+
     <img
       src="@/assets/images/side.jpg"
       class="home-image"
