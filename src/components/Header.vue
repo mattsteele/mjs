@@ -15,7 +15,7 @@
             <li>
               <router-link to="/">Home</router-link>
             </li>
-            <li>
+            <!-- <li>
               <router-link to="/invitation">Invitation</router-link>
             </li>
             <li>
@@ -23,7 +23,7 @@
             </li>
             <li>
               <router-link to="/lodging">Lodging</router-link>
-            </li>
+            </li> -->
             <li>
               <router-link to="/registry">Registry & Gifts</router-link>
             </li>

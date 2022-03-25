@@ -9,23 +9,31 @@
         >
       </router-link>
     </div><!-- link-wrapper -->
-    <h1 class="title">Jessica & Matt</h1>
+    <!-- <h1 class="title">Jessica & Matt</h1> -->
+
+    <h1 class="title">Thanks for coming!</h1>
+
+      <img
+        src="@/assets/images/M+J-11.jpg"
+        class="home-image"
+        alt="Party!"
+      >
 
     <h3><a href="https://www.dropbox.com/request/a2XTxKSq6qeERzBHppQj">Click here</a> to add photos to our album</h3>
 
-    <img
+    <!-- <img
       src="@/assets/images/side.jpg"
       class="home-image"
       alt="Holding Hands"
-    >
-    <div class="intro-wrapper">
+    > -->
+    <!-- <div class="intro-wrapper">
       <p>Jessica & Matt lived three blocks apart in Denver for years before they met right between their two apartments. Two days later, their first date was watching the Broncos win Super Bowl 50. That was February 7th, 2016 & they’ve never looked back. They’ve grown with each other through tiny apartments, career changes, a pandemic, & learning what it takes to be the best partners in life. Last year they bought their first home together, & adopted Betty Sue Dog, the apple of their eyes. They are so excited to start their new adventure of marriage, & they can’t wait to celebrate their love with their family & friends.</p>
-    </div>
-      <img
+    </div> -->
+      <!-- <img
         src="@/assets/images/kids.jpg"
         class="home-image"
         alt="Matt & Jessica as children"
-      >
+      > -->
   </div><!-- .home-wrapper -->
 </template>
 
