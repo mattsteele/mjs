@@ -19,7 +19,7 @@
         alt="Party!"
       >
 
-    <h3><a href="https://www.dropbox.com/request/a2XTxKSq6qeERzBHppQj">Click here</a> to add photos to our album</h3>
+    <h3><a href="https://www.dropbox.com/request/a2XTxKSq6qeERzBHppQj">Click here</a> to upload any photos you took.</h3>
 
     <!-- <img
       src="@/assets/images/side.jpg"
