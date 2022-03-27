@@ -11,10 +11,10 @@
 							<path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z" />
 						</svg>
 					</label>
-          <ul class="nav__menu">
+          <!-- <ul class="nav__menu">
             <li>
               <router-link to="/">Home</router-link>
-            </li>
+            </li> -->
             <!-- <li>
               <router-link to="/invitation">Invitation</router-link>
             </li>
@@ -24,10 +24,10 @@
             <li>
               <router-link to="/lodging">Lodging</router-link>
             </li> -->
-            <li>
+            <!-- <li>
               <router-link to="/registry">Registry & Gifts</router-link>
             </li>
-          </ul>
+          </ul> -->
         </nav>
 		</div><!-- header-wrapper -->
 	</header>
